@@ -22,17 +22,21 @@ My approach is pretty hands-on: I learn by building projects, reading documentat
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=qrjhamron&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qrjhamron&layout=compact&theme=tokyonight&hide_border=true&langs_count=7)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qrjhamron&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=qrjhamron&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qrjhamron&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=qrjhamron&theme=tokyo-night&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=qrjhamron&theme=tokyonight&hide_border=true)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=qrjhamron&theme=tokyonight&no-frame=true&row=1&column=7)
+![Trophy](https://github-profile-trophy.vercel.app/?username=qrjhamron&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)
 
-![Profile Views](https://komarev.com/ghpvc/?username=qrjhamron&color=blueviolet&style=flat-square)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=qrjhamron&theme=tokyo-night&hide_border=true&area=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=qrjhamron&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
 
 ---
 
