@@ -34,9 +34,9 @@ different languages for different ideas. i care more about whether something wor
 
 i'm also interested in mathematics, design, and chess. i like things that reward curiosity and a bit of patience.
 
-### elsewhere
+### contact
 
-[github](https://github.com/qrjhamron) · discord: `grace0x0` · instagram: *link to be added*
+[lyciv@proton.me](mailto:lyciv@proton.me)
 
 ---
 
